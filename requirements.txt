@@ -1,0 +1,10 @@
+altgraph==0.17
+future==0.18.2
+pefile==2019.4.18
+pyinstaller==4.1
+pyinstaller-hooks-contrib==2020.10
+pyodbc==4.0.30
+PyQt5==5.15.1
+PyQt5-sip==12.8.1
+pytz==2020.1
+pywin32-ctypes==0.2.0
